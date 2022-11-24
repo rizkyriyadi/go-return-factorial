@@ -1,4 +1,4 @@
-package go_return_factorial
+package returnFactorial
 
 func Factorial(num int) int {
 	if num == 1 {
